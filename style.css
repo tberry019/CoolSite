@@ -1,0 +1,82 @@
+/* UTILITY CLASSES */
+/* #Region */
+.dflex{
+    display: flex
+    
+}
+
+header{
+    background-color: rgba(56, 56, 218, 0.959);
+    align-items: center;
+    color: white;
+    justify-content:center;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+header section{
+    padding-right: 6em;
+}
+
+h2{
+    align-items: center;
+    color: black;
+    text-align: center;
+
+}
+
+h3{
+    align-items: center;
+    color: black;
+    text-align: center;
+}
+
+.leftColumn{
+    width:60%;
+    margin-top: 3em;
+    margin-left: 5em;
+    align-items: center;
+    text-align: start;
+
+}
+
+.rightColumn{
+    width:40%;
+    margin-top: 2em;
+}
+
+body{
+    margin: 0;
+}
+
+img{
+    height: 9em;
+    width: 17em;
+    padding: 4em;
+    
+}
+
+.Container{
+    position: relative;
+}
+footer{
+    background-color: rgba(56, 56, 218, 0.959);
+    border-style: solid;
+    border-color: black;
+    justify-content:center;
+    align-items: center;
+    height: 10vh;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+}
+
+
+
+
+
+
+
+
+/* #End Region */
